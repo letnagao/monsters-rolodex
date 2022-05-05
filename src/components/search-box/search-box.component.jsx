@@ -11,7 +11,7 @@ class SearchBox extends Component {
                 placeholder={this.props.placeholder}
                 onChange={this.props.onChangeHndler}
             />
-        )
+        );
     } 
 }
 
