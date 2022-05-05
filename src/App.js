@@ -11,7 +11,6 @@ class App extends Component {
       monsters: [],
       searchField: '' 
     };
-    console.log('constructor');
   }
 
   componentDidMount() {
@@ -21,9 +20,6 @@ class App extends Component {
       this.setState(
         () => {
           return {monsters: users}
-        },
-        () => {
-          console.log(this.state);
         }
       )
     );
@@ -37,8 +33,6 @@ class App extends Component {
   };
 
   render() {
-    console.log('render');
-
     const { monsters, searchField } = this.state;
     const { onSearchChange } = this;
 
@@ -54,14 +48,7 @@ class App extends Component {
           placeholder='search monsters'  
           onChange={onSearchChange}
         />
-        {/* {filteredMonsters.map((monster) => {
-            return (
-              <div key={monster.id}>
-                <h1>{monster.name}</h1>
-              </div>
-            );
-        })} */}
-        <CardList />
+        <CardList monsters={filteredMonsters} />
       </div>
     );
   }
