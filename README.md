@@ -32,7 +32,7 @@ The app displays a rolodex of Monsters with a search bar, the user can type in t
 <li>Clone the project</li>
 </ul><p><code>git clone https://github.com/letnagao/monsters-rolodex.git </code></p><ul>
 <li>Go to the project directory</li>
-</ul><p><code>cd my-project  </code></p><ul>
+</ul><p><code>cd monsters-rolodex </code></p><ul>
 <li>Install dependencies</li>
 </ul><p><code>yarn install </code></p><ul>
 <li>Start the server</li>
