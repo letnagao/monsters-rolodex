@@ -37,3 +37,11 @@ The app displays a rolodex of Monsters with a search bar, the user can type in t
 </ul><p><code>yarn install </code></p><ul>
 <li>Start the server</li>
 </ul><p><code>yarn start</code></p>
+
+## Contributing 💡
+Pull request are welcome but please open an issue and discuss what you will do before 😊
+
+## Like this project? 💖
+
+If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
+
