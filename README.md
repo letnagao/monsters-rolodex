@@ -9,6 +9,11 @@ The app displays a rolodex of Monsters with a search bar, the user can type in t
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/monsters-rolodex?logo=GitHub)](https://github.com/letnagao/monsters-rolodex/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
+</ul><h2> Preview ⚡️</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99754900/174687119-403741af-b913-4649-b012-7b74412419e5.jpeg" />
+</p>  
+
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
 <li>HTML</li>
