@@ -14,6 +14,9 @@ The app displays a rolodex of Monsters with a search bar, the user can type in t
   <img src="https://user-images.githubusercontent.com/99754900/174687119-403741af-b913-4649-b012-7b74412419e5.jpeg" />
 </p>  
 
+## Website 💻
+https://monsters-rolodex-238.pages.dev/
+
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
 <li>HTML</li>
